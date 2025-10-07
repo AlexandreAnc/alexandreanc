@@ -31,8 +31,8 @@ C’est un espace où je partage mes **réalisations**, **projets web** et **cr�
 |------------------|-----------------------|-----------------------------|
 | **Stage & Alternance chez Skillreso** | Développement d’addons personnalisés pour Odoo, déploiement Docker, supervision de sites clients | Python (Odoo), Docker, scripts, monitoring |
 | **Code Events** | Plateforme de gestion d’événements (inscription, validation, tableaux de bord) | PHP / JS / API / MySQL |
-| **CustomDoc** | Outil de création / édition de documents selon des templates | HTML / CSS / JS / backend PHP ou Python |
-| **Projets scolaires / associatifs** | Sites web, intégration, collaboration en équipe | HTML, CSS, JS, PHP |
+| **CustomDoc** | Outil de création / édition de documents selon des templates | HTML / CSS / JS / PHP |
+| **Projets scolaires / associatifs** | Sites web, intégration, collaboration en équipe | HTML / CSS / JS / PHP |
 
 ---
 
